@@ -19,3 +19,6 @@ name = "Ali"
 print(name)
 
 print(age + something)
+
+user_input = input("What is your name? ")
+print(f"Hello {user_input}!")
